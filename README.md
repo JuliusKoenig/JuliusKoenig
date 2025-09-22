@@ -30,7 +30,7 @@ to software development.
 
 | Category           | Tools                                                                                                                                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Development        | Blender <img src="img/blender.png" width="20" height="20"> / GIMP <img src="img/gimp.png" width="20" height="20">                                                                                                                                                                                                                                               |
+| Development        | Git <img src="img/git.png" width="20" height="20"> / Blender <img src="img/blender.png" width="20" height="20"> / GIMP <img src="img/gimp.png" width="20" height="20">                                                                                                                                                                                          |
 | Automation         | Ansible <img src="img/ansible.png" width="20" height="20"> / Terraform <img src="img/terraform.png" width="20" height="20">                                                                                                                                                                                                                                     |
 | Operating Systems  | Linux <img src="img/tux.png" width="20" height="20"> (Debian <img src="img/debian.png" width="20" height="20"> + Debian <img src="img/ubuntu.png" width="20" height="20"> + Fedora <img src="img/fedora.png" width="20" height="20">)<br/>MacOS <img src="img/apple.png" width="20" height="20"><br/>Windows <img src="img/windows.png" width="20" height="20"> |
 | Hardware           | Mikrotik <img src="img/mikrotik.png" width="20" height="20"> / Aruba <img src="img/aruba.png" width="20" height="20">                                                                                                                                                                                                                                           |
@@ -43,16 +43,19 @@ to software development.
 
 - Administration and monitoring of critical IT systems for state government applications.
 - Automate routine tasks with Ansible and Terraform to enhance operational efficiency and reduce manual intervention.
-- Support 
+- Support
 
 ### Freelance Projects (**Various Roles**):
 
 - **Developer:** Tool for data collection and analysis for monitoring water quality in dam infrastructure.
-- **System Administrator:** Managed and optimized IT infrastructure for small businesses, ensuring system reliability and security.
-- **Technical Support Specialist:** Provided remote technical support and troubleshooting for clients, enhancing user satisfaction and system performance.
+- **System Administrator:** Managed and optimized IT infrastructure for small businesses, ensuring system reliability
+  and security.
+- **Technical Support Specialist:** Provided remote technical support and troubleshooting for clients, enhancing user
+  satisfaction and system performance.
 
 ### Kirchhoff Datensysteme (**System Administrator / Software Engineer**):
 
-- Provided technical support, developed automated utilities, and deployed monitoring solutions to enhance system reliability.
+- Provided technical support, developed automated utilities, and deployed monitoring solutions to enhance system
+  reliability.
 - Managed customer systems, ensuring optimal performance and security.
 
