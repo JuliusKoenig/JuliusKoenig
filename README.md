@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<a href="https://github.com/JuliusKoenig/GitHub-Language-Stats">
+  <img src="https://github.com/JuliusKoenig/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/JuliusKoenig/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+![Profile Views](https://komarev.com/ghpvc/?username=JuliusKoenig)
+
 <!--
 **JuliusKoenig/JuliusKoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
