@@ -5,6 +5,10 @@
   <img src="https://github.com/JuliusKoenig/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+![My GitHub](https://github-readme-stats.vercel.app/api?username=JuliusKoenig&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusKoenig&theme=dark&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JuliusKoenig)
 
 <!--
